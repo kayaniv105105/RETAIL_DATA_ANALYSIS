@@ -22,3 +22,24 @@ Broadly, you will perform the following tasks in this project:
   
   Storing the KPIs (both time-based and time- and country-based) for a 10-minute interval into separate JSON files for further analysis
 
+![image](https://github.com/user-attachments/assets/68cebd61-4ba6-4e28-96ae-f0d253121bac)
+
+As you can see, the data contains the following information:
+
+    Invoice number: Identifier of the invoice
+    
+    Country: Country where the order is placed
+    
+    Timestamp: Time at which the order is placed
+    
+    Type: Whether this is a new order or a return order
+    
+    SKU (Stock Keeping Unit): Identifier of the product being ordered
+    
+    Title: Name of the product is ordered
+    
+    Unit price: Price of a single unit of the product
+    
+    Quantity: Quantity of the product being ordered
+
+You will be using these columns to derive some additional columns as well, which will help you in calculating the KPIs. You will learn more about this in the next segment.
