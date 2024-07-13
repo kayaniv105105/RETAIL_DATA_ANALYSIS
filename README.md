@@ -43,3 +43,9 @@ As you can see, the data contains the following information:
     Quantity: Quantity of the product being ordered
 
 You will be using these columns to derive some additional columns as well, which will help you in calculating the KPIs. You will learn more about this in the next segment.
+
+
+### Key Performance Parameters
+![image](https://github.com/user-attachments/assets/33d969ea-3b64-4c89-af97-13e2f5dc8935)
+![image](https://github.com/user-attachments/assets/369c3d77-d416-437c-a465-aaa9f7eb1fdf)
+
